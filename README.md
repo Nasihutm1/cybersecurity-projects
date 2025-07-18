@@ -9,8 +9,8 @@ Welcome to my **Cybersecurity Portfolio**, a showcase of hands-on projects demon
 I'm **Nasihu Tijjani Muhammad**, a cybersecurity practitioner with a passion for proactive defense, technical research, and user education. My experience spans vulnerability assessments, phishing simulations, and securing cloud environments. I hold certifications including:
 
 - ISC2 Certified in Cybersecurity (CC)
-- Google Cybersecurity Certificate
-- EC-Council Certified Cybersecurity Technician
+- Google Cybersecurity Certificates
+- Google Cloud Security Certificate
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/your-linkedin-placeholder)
 
